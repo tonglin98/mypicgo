@@ -1,0 +1,916 @@
+version: 1
+creator: xdebug 2.7.2 (PHP 7.3.2)
+cmd: E:\tonglin\work\fastadmin\thinkphp\library\think\Error.php
+part: 1
+positions: line
+
+events: Time Memory
+
+fl=(1)
+fn=(448) php::error_get_last
+86 0 0
+
+fl=(1)
+fn=(109)
+86 0 0
+
+fl=(1)
+fn=(109)
+156 0 0
+
+fl=(1)
+fn=(7)
+130 0 0
+
+fl=(1)
+fn=(110)
+131 0 0
+
+fl=(80)
+fn=(113)
+120 0 0
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+130 0 0
+cfl=(1)
+cfn=(110)
+calls=1 0 0
+131 0 0
+
+fl=(1)
+fn=(7)
+71 0 0
+
+fl=(1)
+fn=(198)
+71 0 32
+
+fl=(1)
+fn=(95)
+107 0 48
+
+fl=(1)
+fn=(7)
+112 0 0
+
+fl=(1)
+fn=(7)
+112 0 0
+
+fl=(1)
+fn=(7)
+112 0 0
+
+fl=(1)
+fn=(7)
+112 0 0
+
+fl=(1)
+fn=(96)
+114 0 48
+
+fl=(1)
+fn=(2)
+114 0 16
+
+fl=(2)
+fn=(97)
+99 999 0
+cfl=(1)
+cfn=(95)
+calls=1 0 0
+107 0 48
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+112 0 0
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+112 0 0
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+112 0 0
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+112 0 0
+cfl=(1)
+cfn=(96)
+calls=1 0 0
+114 0 48
+cfl=(1)
+cfn=(2)
+calls=1 0 0
+114 0 16
+
+fl=(1)
+fn=(98)
+84 0 32
+
+fl=(1)
+fn=(5)
+84 0 96
+
+fl=(1)
+fn=(98)
+84 0 32
+
+fl=(137) E:\tonglin\work\fastadmin\thinkphp\library\think\log\driver\File.php
+fn=(449) include::E:\tonglin\work\fastadmin\thinkphp\library\think\log\driver\File.php
+1 0 0
+
+fl=(2)
+fn=(100)
+664 999 50096
+cfl=(137)
+cfn=(449)
+calls=1 0 0
+666 0 0
+
+fl=(2)
+fn=(101)
+69 0 -256
+cfl=(2)
+cfn=(97)
+calls=1 0 0
+82 999 112
+cfl=(1)
+cfn=(98)
+calls=1 0 0
+84 0 32
+cfl=(1)
+cfn=(5)
+calls=1 0 0
+84 0 96
+cfl=(1)
+cfn=(98)
+calls=1 0 0
+84 0 32
+cfl=(2)
+cfn=(100)
+calls=1 0 0
+85 999 50096
+
+fl=(1)
+fn=(102)
+76 0 0
+cfl=(2)
+cfn=(101)
+calls=1 0 0
+76 1999 50112
+
+fl=(1)
+fn=(191)
+76 0 0
+cfl=(1)
+cfn=(102)
+calls=1 0 0
+76 1999 50112
+
+fl=(1)
+fn=(15)
+35 0 0
+
+fl=(1)
+fn=(17)
+36 0 696
+
+fl=(137)
+fn=(450) think\log\driver\File->__construct
+33 0 0
+cfl=(1)
+cfn=(15)
+calls=1 0 0
+35 0 0
+cfl=(1)
+cfn=(17)
+calls=1 0 0
+36 0 696
+
+fl=(101)
+fn=(185)
+104 0 0
+
+fl=(101)
+fn=(451) think\Log::init
+68 0 -248
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+71 0 0
+cfl=(1)
+cfn=(198)
+calls=1 0 0
+71 0 32
+cfl=(1)
+cfn=(191)
+calls=1 0 0
+76 1999 50112
+cfl=(137)
+cfn=(450)
+calls=1 0 0
+77 0 696
+cfl=(101)
+cfn=(185)
+calls=1 0 0
+83 0 0
+
+fl=(101)
+fn=(452) think\Log::check
+139 0 0
+
+fl=(1)
+fn=(400)
+104 0 256
+
+fl=(1)
+fn=(400)
+104 0 256
+
+fl=(137)
+fn=(453) think\log\driver\File->getMasterLogFile
+86 0 -432
+cfl=(1)
+cfn=(400)
+calls=1 0 0
+104 0 256
+cfl=(1)
+cfn=(400)
+calls=1 0 0
+104 0 256
+
+fl=(1)
+fn=(6)
+51 0 80
+
+fl=(1)
+fn=(10)
+52 0 -32
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(111)
+58 0 0
+
+fl=(1)
+fn=(226)
+65 0 0
+
+fl=(1)
+fn=(2)
+182 1000 0
+
+fl=(137)
+fn=(454) think\log\driver\File->checkLogSize
+180 0 0
+cfl=(1)
+cfn=(2)
+calls=1 0 0
+182 1000 0
+
+fl=(1)
+fn=(400)
+150 0 256
+
+fl=(1)
+fn=(15)
+153 0 0
+
+fl=(1)
+fn=(383)
+153 0 1792
+
+fl=(1)
+fn=(3)
+259 0 0
+
+fl=(1)
+fn=(455) php::round
+259 0 0
+
+fl=(1)
+fn=(183)
+260 0 32
+
+fl=(1)
+fn=(4)
+262 0 0
+
+fl=(1)
+fn=(183)
+262 0 40
+
+fl=(1)
+fn=(183)
+264 0 40
+
+fl=(1)
+fn=(426)
+266 0 12344
+
+fl=(1)
+fn=(427)
+266 0 0
+
+fl=(1)
+fn=(456) php::array_unshift
+268 0 0
+
+fl=(137)
+fn=(457) think\log\driver\File->getDebugLog
+239 0 -12328
+cfl=(1)
+cfn=(3)
+calls=1 0 0
+259 0 0
+cfl=(1)
+cfn=(455)
+calls=1 0 0
+259 0 0
+cfl=(1)
+cfn=(183)
+calls=1 0 0
+260 0 32
+cfl=(1)
+cfn=(4)
+calls=1 0 0
+262 0 0
+cfl=(1)
+cfn=(183)
+calls=1 0 0
+262 0 40
+cfl=(1)
+cfn=(183)
+calls=1 0 0
+264 0 40
+cfl=(1)
+cfn=(426)
+calls=1 0 0
+266 0 12344
+cfl=(1)
+cfn=(427)
+calls=1 0 0
+266 0 0
+cfl=(1)
+cfn=(456)
+calls=1 0 0
+268 0 0
+
+fl=(1)
+fn=(109)
+184 0 0
+
+fl=(89)
+fn=(148)
+182 0 0
+cfl=(1)
+cfn=(109)
+calls=1 0 0
+184 0 0
+
+fl=(89)
+fn=(317)
+1301 0 0
+
+fl=(89)
+fn=(243)
+518 0 0
+
+fl=(1)
+fn=(15)
+873 0 0
+
+fl=(1)
+fn=(152)
+876 0 0
+
+fl=(1)
+fn=(7)
+1014 0 0
+
+fl=(1)
+fn=(115)
+1020 0 376
+
+fl=(1)
+fn=(221)
+1028 0 0
+
+fl=(1)
+fn=(109)
+1066 0 0
+
+fl=(1)
+fn=(111)
+1070 0 0
+
+fl=(1)
+fn=(7)
+1070 0 0
+
+fl=(1)
+fn=(115)
+1071 0 496
+
+fl=(89)
+fn=(236)
+1064 0 0
+cfl=(1)
+cfn=(109)
+calls=1 0 0
+1066 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+1070 0 0
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+1070 0 0
+cfl=(1)
+cfn=(115)
+calls=1 0 0
+1071 0 496
+
+fl=(1)
+fn=(15)
+1036 0 0
+
+fl=(1)
+fn=(13)
+1090 0 376
+
+fl=(1)
+fn=(164)
+1092 0 0
+
+fl=(1)
+fn=(114)
+1094 0 0
+
+fl=(1)
+fn=(424)
+1094 0 0
+cfl=(1)
+cfn=(114)
+calls=1 0 0
+1094 0 0
+
+fl=(1)
+fn=(164)
+1092 0 0
+
+fl=(1)
+fn=(269)
+1094 0 48
+
+fl=(1)
+fn=(424)
+1094 0 0
+cfl=(1)
+cfn=(269)
+calls=1 0 0
+1094 0 48
+
+fl=(1)
+fn=(164)
+1092 0 0
+
+fl=(1)
+fn=(425)
+1094 0 160
+
+fl=(1)
+fn=(424)
+1094 0 0
+cfl=(1)
+cfn=(425)
+calls=1 0 0
+1094 0 160
+
+fl=(1)
+fn=(111)
+1125 0 0
+
+fl=(1)
+fn=(216)
+1125 0 0
+
+fl=(89)
+fn=(238)
+1122 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+1125 0 0
+cfl=(1)
+cfn=(216)
+calls=1 0 0
+1125 0 0
+
+fl=(89)
+fn=(239)
+1088 0 -424
+cfl=(1)
+cfn=(13)
+calls=1 0 0
+1090 0 376
+cfl=(1)
+cfn=(164)
+calls=1 0 0
+1092 0 0
+cfl=(1)
+cfn=(424)
+calls=1 0 0
+1094 0 0
+cfl=(1)
+cfn=(164)
+calls=1 0 0
+1092 0 0
+cfl=(1)
+cfn=(424)
+calls=1 0 0
+1094 0 48
+cfl=(1)
+cfn=(164)
+calls=1 0 0
+1092 0 0
+cfl=(1)
+cfn=(424)
+calls=1 0 0
+1094 0 160
+cfl=(89)
+cfn=(238)
+calls=1 0 0
+1114 0 0
+
+fl=(1)
+fn=(110)
+1139 0 0
+
+fl=(1)
+fn=(237)
+1159 0 0
+
+fl=(89)
+fn=(240)
+1137 0 0
+cfl=(1)
+cfn=(110)
+calls=1 0 0
+1139 0 0
+cfl=(1)
+cfn=(237)
+calls=1 0 0
+1159 0 0
+
+fl=(89)
+fn=(241)
+1005 0 -872
+cfl=(1)
+cfn=(7)
+calls=1 0 0
+1014 0 0
+cfl=(1)
+cfn=(115)
+calls=1 0 0
+1020 0 376
+cfl=(1)
+cfn=(221)
+calls=1 0 0
+1028 0 0
+cfl=(89)
+cfn=(236)
+calls=1 0 0
+1034 0 496
+cfl=(1)
+cfn=(15)
+calls=1 0 0
+1036 0 0
+cfl=(89)
+cfn=(239)
+calls=1 0 0
+1040 0 160
+cfl=(89)
+cfn=(240)
+calls=1 0 0
+1045 0 0
+
+fl=(89)
+fn=(242)
+868 0 0
+cfl=(1)
+cfn=(15)
+calls=1 0 0
+873 0 0
+cfl=(1)
+cfn=(152)
+calls=1 0 0
+876 0 0
+cfl=(89)
+cfn=(241)
+calls=1 0 0
+876 0 160
+
+fl=(89)
+fn=(458) think\Request->host
+1381 0 0
+cfl=(89)
+cfn=(242)
+calls=1 0 0
+1386 0 160
+
+fl=(1)
+fn=(109)
+306 0 0
+
+fl=(89)
+fn=(279)
+304 0 0
+cfl=(1)
+cfn=(109)
+calls=1 0 0
+306 0 0
+
+fl=(1)
+fn=(456)
+233 0 376
+
+fl=(1)
+fn=(383)
+236 0 2048
+
+fl=(137)
+fn=(459) think\log\driver\File->parseLog
+218 0 -536
+cfl=(89)
+cfn=(148)
+calls=1 0 0
+220 0 0
+cfl=(89)
+cfn=(317)
+calls=1 0 0
+222 0 0
+cfl=(89)
+cfn=(243)
+calls=1 0 0
+223 0 0
+cfl=(89)
+cfn=(458)
+calls=1 0 0
+224 0 160
+cfl=(89)
+cfn=(279)
+calls=1 0 0
+225 0 0
+cfl=(1)
+cfn=(456)
+calls=1 0 0
+233 0 376
+cfl=(1)
+cfn=(383)
+calls=1 0 0
+236 0 2048
+
+fl=(1)
+fn=(460) php::error_log
+171 999 0
+
+fl=(137)
+fn=(461) think\log\driver\File->write
+144 0 -4224
+cfl=(137)
+cfn=(454)
+calls=1 0 0
+147 1000 0
+cfl=(1)
+cfn=(400)
+calls=1 0 0
+150 0 256
+cfl=(1)
+cfn=(15)
+calls=1 0 0
+153 0 0
+cfl=(1)
+cfn=(383)
+calls=1 0 0
+153 0 1792
+cfl=(137)
+cfn=(457)
+calls=1 0 0
+166 0 128
+cfl=(137)
+cfn=(459)
+calls=1 0 0
+168 0 2048
+cfl=(1)
+cfn=(460)
+calls=1 0 0
+171 999 0
+
+fl=(137)
+fn=(462) think\log\driver\File->save
+47 0 -160
+cfl=(137)
+cfn=(453)
+calls=1 0 0
+49 0 80
+cfl=(1)
+cfn=(6)
+calls=1 0 0
+51 0 80
+cfl=(1)
+cfn=(10)
+calls=1 0 0
+52 0 -32
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(111)
+calls=1 0 0
+58 0 0
+cfl=(1)
+cfn=(226)
+calls=1 0 0
+65 0 0
+cfl=(137)
+cfn=(461)
+calls=1 0 0
+75 2000 0
+
+fl=(1)
+fn=(127)
+78 0 0
+
+fl=(83)
+fn=(128)
+72 0 0
+cfl=(1)
+cfn=(127)
+calls=1 0 0
+78 0 0
+
+fl=(83)
+fn=(129)
+90 0 0
+cfl=(83)
+cfn=(128)
+calls=1 0 0
+94 0 0
+
+fl=(101)
+fn=(463) think\Log::save
+149 0 -3216
+cfl=(1)
+cfn=(109)
+calls=1 0 0
+156 0 0
+cfl=(80)
+cfn=(113)
+calls=1 0 0
+156 0 0
+cfl=(101)
+cfn=(451)
+calls=1 0 0
+156 1999 50592
+cfl=(101)
+cfn=(452)
+calls=1 0 0
+159 0 0
+cfl=(137)
+cfn=(462)
+calls=1 0 0
+179 2000 -32
+cfl=(83)
+cfn=(129)
+calls=1 0 0
+183 0 0
+
+fl=(85)
+fn=(464) think\Error::appShutdown
+83 0 0
+cfl=(1)
+cfn=(448)
+calls=1 0 0
+86 0 0
+cfl=(1)
+cfn=(109)
+calls=1 0 0
+86 0 0
+cfl=(101)
+cfn=(463)
+calls=1 0 0
+93 3999 47344
+
